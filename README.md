@@ -54,4 +54,4 @@ Hecho lo anterior ya se tiene todo listo para correr un programa el ensamblado.
 
 La wiki del repositorio contiene información detallada sobre cada programa, incluyendo su descripción, los lenguajes de programación utilizados, las instrucciones de uso y los resultados esperados. También se proporcionan ejemplos de código y capturas de pantalla para ayudar en la comprensión de cada programa.
 
-[Reportes/Documentación ](https://github.com/JoseCorreaMorales/lenguajes-de-interfaz/wiki) ``
+[Reportes/Documentación ](https://github.com/JoseCorreaMorales/lenguajes-de-interfaz/wiki) 
