@@ -1,4 +1,4 @@
-# Lenguajes de interfaz (Intel)
+# Lenguajes de interfaz (ASM)
 Este repositorio contiene los proyectos y ejercicios realizados en la materia de lenguajes de interfaz. Inpartida por [BanarySource](https://www.magicpattern.design/tools/css-backgrounds) en el Instituto Tecnológico de Ciudad Hidalgo.
 
 Cada carpeta contiene un programa diferente que realiza una tarea específica. Los programas están escritos en lenguaje ensamblador y se pueden ejecutar en un sistema operativo Linux.
